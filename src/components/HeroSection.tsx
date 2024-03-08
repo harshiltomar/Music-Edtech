@@ -15,7 +15,7 @@ function HeroSection() {
         </h1>
         <p className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto">
           Unleash your musical potential with our immersive courses, designed to
-          spark creativity and refine skills. Whether you're a novice or honing
+          spark creativity and refine skills. Whether you are a novice or honing
           expertise, embark on a transformative journey today.
         </p>
         <div className="mt-4">
